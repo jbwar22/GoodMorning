@@ -1,0 +1,16 @@
+{
+  "name": "goodmorning",
+  "version": "1.0.0",
+  "description": "a bot that pings someone with goodmorning at 12 am",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Squashbucklr",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "moment": "^2.22.2",
+    "node-localstorage": "^1.3.1"
+  }
+}
